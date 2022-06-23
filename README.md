@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NelsonGift
-- 👀 I’m interested in all programming languages...
-- 🌱 I’m currently learning JavaScript and C++...
-- 💞️ I’m looking to collaborate on ..software. Project sok .
+- 👀 I’m interested in html,css,Javascript(frameworks),java,Python,SQL,php,C#,C... 
+- 🌱 I’m currently learning Htnl,Css,Javascript,Java,php,C,SQL 
+- 💞️ I’m looking to collaborate on Web development..software Project sok .
 - 📫 How to reach me .. nelsongift43@gmail.com.
 
 <!---
