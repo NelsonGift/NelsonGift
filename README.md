@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NelsonGift
-- 👀 I’m interested in html,css,Javascript(frameworks),java,Python,SQL,php,C#,C... 
-- 🌱 I’m currently learning Html,Css,Javascript,Java,php,C,SQL 
-- 💞️ I’m looking to collaborate on Web development..software Project sok .
+- 👀 I’m interested in Web and Software development.
+- 🌱 I’m currently learning Javascript, Java, PHP and C#
+- 💞️ I’m looking to collaborate and innovate on amaizing projects.
 - 📫 How to reach me .. nelsongift43@gmail.com.
 
 <!---
