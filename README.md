@@ -4,7 +4,7 @@
 
 
 ## Developer and Mentor!!
-- ✍ You can find my projects here [azhartech.net]
+- ✍ You can find my projects here [Portfolio]  https://azhartech.net/
 - 🔭 I’m currently working on a django multi-vendor restaurant marketplace.
 - 🌱 I’m currently learning React DSA and AWS
 - 👯 I’m looking to collaborate on open source
