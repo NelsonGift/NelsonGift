@@ -6,7 +6,7 @@
 ## Developer and Mentor!!
 - ✍ You can find my projects here [https://azhartech.net/]  
 - 🔭 I’m currently working on a django multi-vendor restaurant marketplace.
-- 🌱 I’m currently learning React DSA and AWS
+- 🌱 I’m currently learning DSA 
 - 👯 I’m currently working as a freelancer 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: HIM/HE
